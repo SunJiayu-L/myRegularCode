@@ -1,0 +1,72 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: gcc.exe 生成活动文件",
+            "command": "D:\\gcc\\MinGW\\bin\\gcc.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                //"${file}",
+                "${workspaceFolder}/filemake/*.c",
+                "${workspaceFolder}/*.c",
+                "-I",
+                "${workspaceFolder}/include",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        },
+        {
+            "type": "cppbuild",
+            "label": "C/C++: gcc.exe 生成活动文件",
+            "command": "D://gcc//MinGW//bin//gcc.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "D://gcc//MinGW//bin/"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "编译器: D://gcc//MinGW//bin//gcc.exe"
+        },
+        {
+            "type": "cppbuild",
+            "label": "C/C++: cl.exe 生成活动文件",
+            "command": "cl.exe",
+            "args": [
+                "/Zi",
+                "/EHsc",
+                "/nologo",
+                "/Fe${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "${file}"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "group": "build",
+            "detail": "编译器: cl.exe"
+        }
+    ],
+    "version": "2.0.0"
+}

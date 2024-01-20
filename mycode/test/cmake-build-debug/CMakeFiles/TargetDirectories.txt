@@ -1,0 +1,6 @@
+D:/Mycode/mycode/test/cmake-build-debug/CMakeFiles/calendar.dir
+D:/Mycode/mycode/test/cmake-build-debug/CMakeFiles/CMakeCCompilerId.dir
+D:/Mycode/mycode/test/cmake-build-debug/CMakeFiles/main.dir
+D:/Mycode/mycode/test/cmake-build-debug/CMakeFiles/test.dir
+D:/Mycode/mycode/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mycode/mycode/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

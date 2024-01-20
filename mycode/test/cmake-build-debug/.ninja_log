@@ -1,0 +1,9 @@
+# ninja log v5
+1	98	7271637483035343	CMakeFiles/test.dir/main.c.obj	a177d8316a68883b
+100	215	7271637484164320	test.exe	2c9dbd9cbefeb4a3
+1	102	7271646073830503	CMakeFiles/main.dir/main.c.obj	2f3457e1e7fcc902
+116	226	7271646075041098	D:/Mycode/mycode/test/.runtime/main.exe	1e41d187e7e470cf
+0	110	7271646380709808	CMakeFiles/test.dir/test.c.obj	7d2d738c41116bc5
+110	235	7271646381924154	D:/Mycode/mycode/test/.runtime/test.exe	785d9b2a1096b847
+0	93	7271646463143707	CMakeFiles/calendar.dir/calendar.c.obj	60cebc081230c5b7
+94	206	7271646464243960	D:/Mycode/mycode/test/.runtime/calendar.exe	99f5e6aebee843ae
