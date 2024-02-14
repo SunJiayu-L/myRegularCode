@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Mycode/mycode/多文件编程/同一目录下/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\out.dir\\main.c.obj -c D:\\Mycode\\mycode\\多文件编程\\同一目录下\\main.c",
+  "file": "D:/Mycode/mycode/多文件编程/同一目录下/main.c",
+  "output": "CMakeFiles/out.dir/main.c.obj"
+},
+{
+  "directory": "D:/Mycode/mycode/多文件编程/同一目录下/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\out.dir\\LinkList.c.obj -c D:\\Mycode\\mycode\\多文件编程\\同一目录下\\LinkList.c",
+  "file": "D:/Mycode/mycode/多文件编程/同一目录下/LinkList.c",
+  "output": "CMakeFiles/out.dir/LinkList.c.obj"
+}
+]

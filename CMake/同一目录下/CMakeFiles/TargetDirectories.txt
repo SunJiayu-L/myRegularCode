@@ -1,3 +1,0 @@
-D:/Mycode/mycode/FileTxt/CMakeFiles/out.dir
-D:/Mycode/mycode/FileTxt/CMakeFiles/edit_cache.dir
-D:/Mycode/mycode/FileTxt/CMakeFiles/rebuild_cache.dir
