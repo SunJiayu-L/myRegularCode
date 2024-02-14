@@ -1,3 +1,0 @@
-D:/Git/FileTxt/CMakeFiles/out.dir
-D:/Git/FileTxt/CMakeFiles/edit_cache.dir
-D:/Git/FileTxt/CMakeFiles/rebuild_cache.dir
