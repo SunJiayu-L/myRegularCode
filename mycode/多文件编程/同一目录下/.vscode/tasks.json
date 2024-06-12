@@ -13,9 +13,6 @@
                 "-o",
                 "${fileDirname}\\out.exe"
             ],
-            "options": {
-                "cwd": "${fileDirname}"
-            },
             "problemMatcher": [
                 "$gcc"
             ],

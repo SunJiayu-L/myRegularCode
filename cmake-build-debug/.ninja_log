@@ -1,0 +1,19 @@
+# ninja log v5
+4	146	7397152096355420	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+147	259	7397152097449480	MyCode.exe	87acfb22216a7c44
+1	114	7395257526218577	CMakeFiles/MyCode.dir/mycode/2.c.obj	60c527085033cf46
+1	182	7395304343051989	build.ninja	1535b8e3e48740fa
+2	2263	7397233644920515	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+2264	3794	7397233660160260	MyCode.exe	87acfb22216a7c44
+2	186	7397244031236802	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+187	321	7397244032528284	MyCode.exe	87acfb22216a7c44
+2	215	7397314176389200	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+215	385	7397314178057946	MyCode.exe	87acfb22216a7c44
+3	310	7397317238873960	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+310	441	7397317240125524	MyCode.exe	87acfb22216a7c44
+2	173	7397322001926534	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+174	319	7397322003268498	MyCode.exe	87acfb22216a7c44
+3	204	7397325117007611	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+204	342	7397325118325528	MyCode.exe	87acfb22216a7c44
+2	175	7397329870019517	CMakeFiles/MyCode.dir/mycode/zhuo.c.obj	9bd4691f56abf3ff
+176	331	7397329871479512	MyCode.exe	87acfb22216a7c44
